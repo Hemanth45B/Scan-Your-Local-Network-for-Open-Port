@@ -26,8 +26,3 @@ Open Services Discovered:
     [cite_start]192.168.1.2 & 192.168.1.5:** Running Windows services such as MSRPC (135), NetBIOS (139), and SMB (445)[cite: 5, 52, 54, 56].
     [cite_start]192.168.1.16: Had an open port for ICSLAP (2869)[cite: 12].
 
-
-
-## ⚠️ Disclaimer
-
-This project was conducted in a controlled environment for educational purposes. The tools and techniques described should only be used on networks where you have explicit permission. Unauthorized network scanning is illegal and unethical.

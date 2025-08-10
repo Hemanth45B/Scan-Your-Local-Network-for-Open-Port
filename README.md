@@ -1,6 +1,6 @@
 # Scan-Your-Local-Network-for-Open-Port
  Learn to discover open ports on devices in your local network to understand  network exposure. 
-## 🛠Tools Used
+## Tools Used
  Nmap:Used for network discovery and security auditing.
  Wireshark: Used for network protocol analysis and packet capture.
 
